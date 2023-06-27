@@ -1,0 +1,20 @@
+{
+  "name": "n-belikov/request-dto",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Nikita"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NBelikov\\RequestDTO\\": "src"
+    }
+  },
+  "require": {
+    "php": "~8.2",
+    "laravel/framework": "9.*|10.*"
+  }
+}
